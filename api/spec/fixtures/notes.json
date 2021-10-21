@@ -1,0 +1,27 @@
+[
+  {
+    "model": "Note",
+    "data": {
+      "id": 1,
+      "notebookId": 1,
+      "title": "Perpetual motion machine",
+      "content": "Not working."
+    }
+  }, {
+    "model": "Note",
+    "data": {
+      "id": 2,
+      "notebookId": 1,
+      "title": "Vaccines",
+      "content": "Do not cause autism."
+    }
+  }, {
+    "model": "Note",
+    "data": {
+      "id": 3,
+      "notebookId": 2,
+      "title": "Clean the house",
+      "content": "Use strong cleaning products."
+    }
+  }
+]

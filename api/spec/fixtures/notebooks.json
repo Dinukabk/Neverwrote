@@ -1,0 +1,16 @@
+[
+  {
+    "model": "Notebook",
+    "data": {
+      "id": 1,
+      "title": "Research"
+    }
+  },
+  {
+    "model": "Notebook",
+    "data": {
+      "id": 2,
+      "title": "Chores"
+    }
+  }
+]

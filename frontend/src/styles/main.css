@@ -1,0 +1,8 @@
+/* *** TODO: Put your CSS styles here to make the web application look nice *** */
+.vl {
+  border-left: 2px solid black;
+  height: 300px;
+}
+.stats {
+  padding: 5px;
+}
